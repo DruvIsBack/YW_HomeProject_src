@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Created-By: 1.8.0_74-b02 (Oracle Corporation)
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Main-Class: Main
+Rsrc-Class-Path: ./ a.jar junv-1.0.3.jar
+Class-Path: .
+
